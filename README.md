@@ -1,6 +1,8 @@
 # movieFlix
 a project to show list of movies
 
+the api which you have is not taking the api key it is giving an error so I ahve created a ui with dummy data
+
 To run this project you nedd to have expo in your system, if expo is not there in your system please run this commamd
 
 **npm install --global expo-cli**
